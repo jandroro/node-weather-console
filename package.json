@@ -1,0 +1,15 @@
+{
+  "name": "weather-console-app",
+  "version": "1.0.0",
+  "description": "Node Console App to get the world weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jano Camacho Vicente",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "yargs": "^15.4.1"
+  }
+}
